@@ -1,2 +1,5 @@
 # crantrends
-visualize the downloads of R packages
+
+Visualize how popular R packages are by number of downloads. 
+
+https://szablah.shinyapps.io/crantrends/
