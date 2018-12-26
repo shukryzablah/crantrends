@@ -1,8 +1,10 @@
 library(shiny)
+library(cranlogs)
 library(ggplot2)
 library(stringr)
 
 ui <- fluidPage(
+  titlePanel(title = "CRAN Trends"),
   wellPanel(
     textInput(inputId = "packages", label = "Packages:", value = "dplyr, caret")
     ),
