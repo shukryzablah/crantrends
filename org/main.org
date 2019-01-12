@@ -1,0 +1,10 @@
+* Cran Trends
+** DONE demo of crantrends functionality [100%] [2/2]
+*** DONE define app functionality and bare functionality
+*** DONE compile proof of concept report
+** DONE shiny skeleton deployed online
+** TODO work on readme file
+** TODO sketch layout of shiny app
+** TODO add package search
+*** TODO research options on how to do this
+*** TODO implement it

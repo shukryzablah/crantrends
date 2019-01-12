@@ -3,6 +3,22 @@
 A web application to compare download volumes for different R
 packages.
 
-Link:
-
 https://szablah.shinyapps.io/crantrends/
+
+Structure: 
+
+```
+.
+├── crantrends.Rproj
+├── org
+│   └── main.org
+├── README.org
+├── reports
+│   └── Demo.pdf
+├── shinyApp
+│   └── app.R
+└── src
+    └── demo.R
+
+4 directories, 6 files
+```
