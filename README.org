@@ -1,0 +1,8 @@
+* Cran Trends
+
+A web application to compare download volumes for different R
+packages.
+
+Link:
+
+https://szablah.shinyapps.io/crantrends/
